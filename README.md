@@ -141,10 +141,12 @@ display: inline-block;
 }
 h1{
 ## OUTPUT:
-![OUTPUT](./out.png)
+![image](https://github.com/aparnabalasubrmanian/standard-calculator/assets/123351172/c140a758-356e-445c-8625-431cee8a3356)
+
 
 ## HTML VALIDATOR:
-![HTML_VALIDATOR](./valid.png)
+![image](https://github.com/aparnabalasubrmanian/standard-calculator/assets/123351172/9dbc9de3-5040-429b-8057-0aacec67814a)
+
 
 ## Result:
 The program for designing a simple calculator using Javascript is executed succesfully.
